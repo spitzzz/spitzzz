@@ -20,4 +20,4 @@ I have been extremely fortunate to have been exposed to many different tools and
 
 Thanks for checking out my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=spitzzz&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=spitzzz&style=for-the-badge)
