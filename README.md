@@ -1,6 +1,6 @@
 # Hello, I'm Chris 👋
 
-I'm a Solutions Engineer at [Spacelift](https://spacelift.io/) 🚀. I have notable experience in the cloud space ☁️ (12x AWS Certified, 1x Azure Certified), and as you may have guessed by now - I'm passionate about about cloud computing, writing infrastructure as code, automation, and continuous deployment. Any opinions you may find on my profile(s) are my own.
+I work at [Spacelift](https://spacelift.io/) 🚀. I have notable experience in the cloud space ☁️ (12x AWS Certified, 1x Azure Certified), and as you may have guessed by now - I'm passionate about about cloud computing, writing infrastructure as code, automation, and continuous deployment. Any opinions you may find on my profile(s) are my own.
 
 ## Feel free to give me a follow 🙂
 
