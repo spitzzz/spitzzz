@@ -6,8 +6,6 @@ I have notable experience in the cloud space ☁️ (12x AWS Certified, 1x Azure
 
 ... I like to think I'm pretty friendly 👀
 
-[![Twitter](https://img.shields.io/twitter/follow/SpitzenClouds?color=green&logo=twitter&style=for-the-badge)](https://www.twitter.com/SpitzenClouds)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chris-spitzenberger/)              
 
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@SpitzenClouds)              
