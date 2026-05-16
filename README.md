@@ -8,7 +8,7 @@ I have notable experience in the cloud space ☁️ (12x AWS Certified, 1x Azure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chris-spitzenberger/)              
 
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@SpitzenClouds)              
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@chrisspitzenberger)              
 
 ![](https://komarev.com/ghpvc/?username=spitzzz&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?user_id=43446469)
